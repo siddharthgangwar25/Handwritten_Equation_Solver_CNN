@@ -39,12 +39,12 @@ Extract Train Images.zip
 Run Data_Extraction.ipynb
 ```
 To train the model: <br />
-*Either download Extracted.csv or create CSV file*
+*Either download Extracted.csv or create CSV file, then*
 ```
 Run Train_CNN.ipynb
 ```
 To test the model: <br />
-*Either download already trained model_final.h5 & model_final.json or successfully train the model*
+*Either download already trained model_final.h5 & model_final.json or successfully train the model, then*
 ```
 Run Test_CNN.ipynb
 ```
